@@ -1,0 +1,12 @@
+{
+    "name": "instaapp/instaapp",
+    "description": "A simple Instagram-like application",
+    "require": {
+        "php": ">=7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "InstaApp\\": "api/"
+        }
+    }
+}
